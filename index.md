@@ -1,1 +1,1 @@
-[start](src/test)
+[start](src/test/index2.md)
